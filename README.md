@@ -11,3 +11,20 @@ Clean the data by handling missing values, removing duplicates, and correcting d
 Prepare the dataset so it is ready for analysis or modeling.
 
 This task will help you understand the most important step in data science—cleaning raw data and making it usable for analysis.
+
+
+Task  - 02
+
+Exploratory Data Analysis (EDA)
+
+Create an exploratory data analysis report for a dataset.
+
+Analyze the dataset using statistics and visualizations.
+
+Generate graphs such as bar charts, histograms, and correlation plots.
+
+Summarize insights and patterns found in the data.
+
+This task will help you understand how data scientists explore data and
+extract meaningful insights before building models.
+
